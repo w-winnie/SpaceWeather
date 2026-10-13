@@ -1,0 +1,10 @@
+data/*.dat
+data/*.partial
+data/*.parquet
+data/*.txt
+data/omni_years/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/
+.cursor/*
